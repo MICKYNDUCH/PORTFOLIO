@@ -1,16 +1,21 @@
 # PORTFOLIO
 
 # INTRODUCTION
-This is a small description of my first portfolio landing page on programming and software development skills
+Am michael n njenga
+a skilled web developer in html,css and javascript
+
+# Career objectives
+I would like to build up my career at software development sector in any organisation with national or international perspective and starndad with challenging and creative job for attending my objectives.
+
+# Tech skills
+System software(window,linux)
+basic programming(html,css,java and python)
 
 # TOPICS
 Previous work presentation on programming
 An about me section
 Links to my start up websites
 Contacts
-
-# LANGUAGES
-The languages used are mostly html and css
 
 # AUTHORS
 Michael N Njenga (mickynduch@gmail.com)
