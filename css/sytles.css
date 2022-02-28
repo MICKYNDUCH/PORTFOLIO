@@ -6,7 +6,11 @@ h1{
 }
 body{
   background: lightblue;
+  image-orientation: circle;
 }
 h2{
   text-align: justify;
+}
+img{
+  float: right;
 }
